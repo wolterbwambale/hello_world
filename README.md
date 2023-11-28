@@ -27,7 +27,7 @@
 # 📖 hello-rails-back-end <a name="about-project"></a>
 
 
-**hello-rails-back-end** project is about building a mobile web application where you can manage your budget: you have a list of transactions associated with a category, so that you can see how much money you spent and on what.
+**hello-world-** project is about Set up a "Hello world" project as one app with Webpack
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -102,9 +102,6 @@ To run the project, execute the following command:
 ```sh
   rails server
 ```
-
-### Frontend link   
-- [🚀 Frontend](https://github.com/AleWaweru/hello_react_front_end)
 
 ### Run tests
 
