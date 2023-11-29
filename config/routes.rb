@@ -1,7 +1,4 @@
 Rails.application.routes.draw do
-  root 'root#index'
-  # Define your application routes per the DSL in https://guides.rubyonrails.org/routing.html
-
-  # Defines the root path route ("/")
-  # root "articles#index"
+  root 'static_pages#home'
+  get '/api/random_greeting', to: 'static_pages#random_greeting'
 end
