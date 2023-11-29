@@ -61,7 +61,7 @@ development:
 # Do not set this db to the same as development or production.
 test:
   <<: *default
-  database: Budget_app_test_test
+  database: hello_world_test
   username: postgres
   password: benplan1
  
